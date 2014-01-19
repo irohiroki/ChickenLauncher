@@ -1,0 +1,10 @@
+name: ChickenLauncher
+
+author: irohiroki
+
+main: chickenlauncher.ChickenLauncher
+
+commands:
+
+version: 1.0
+
