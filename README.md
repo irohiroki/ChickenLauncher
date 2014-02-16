@@ -1,5 +1,5 @@
-ChikenLauncher
-==============
+ChickenLauncher
+===============
 
 This is a [CraftBukkit](http://dl.bukkit.org/) plugin that enables you to take a chicken out of a chunk of wool, like a illusionist!
 
